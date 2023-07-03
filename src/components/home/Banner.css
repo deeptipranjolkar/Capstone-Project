@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter&family=Roboto&family=Single+Day&display=swap');
+
+
+img{
+    width: 63vw;
+    height: 100vh;
+}
+
+.newthings{
+    position: absolute;
+    color: white;
+    line-height: 77px;
+    font-weight: 900;
+    max-width: 50vw;
+    font-family: 'Roboto';
+    font-size:40px;
+    bottom: 3vh;
+    left: 3vw;
+    
+}
+.supap{
+    position: absolute;
+    bottom: 1vh;;
+}
