@@ -1,0 +1,64 @@
+.left{
+    padding-top: 10vh;
+    text-align: center;
+    width: 50vw;
+    padding-left: 5vw;
+    box-sizing: border-box;
+    height: 80vh;
+   
+   
+}
+
+.body{
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    width: 100vw;
+   
+}
+
+.right{
+    width: 40vw;
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(3,1fr);
+    max-height: 80vh;
+   
+}
+
+
+.error{
+    color: red;
+    font-size: 12px;
+}
+
+.signUp{
+    position:absolute;
+   
+    padding: 12px;
+    color:white;
+    background:green;
+    bottom:1vh;
+    right:3vw;
+    border: none;
+    border-radius:12px;
+
+}
+
+
+.heading{
+    font-size: 5rem;
+    color: green;
+    font-family:'Single Day';
+}
+
+.subHeading{
+    color: white;
+    text-align: left;
+    margin-top: 4vh;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Roboto';
+    line-height: 94.99px;
+}
+
