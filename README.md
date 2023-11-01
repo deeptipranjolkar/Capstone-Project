@@ -1,4 +1,4 @@
-deploy link(https://genuine-peony-e00078.netlify.app/)
+deploy link(https://superrapp.netlify.app/)
 
 # Getting Started with Create React App
 
